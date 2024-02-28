@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>object avoidance Robot </h1>
-<p> is a simple project aims to avoid any object using sensors</p>
+<p> is a simple project designed to avoid any object using sensors</p>
 
 <h3>componants:</h3>
 <p>
